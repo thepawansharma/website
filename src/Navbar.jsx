@@ -5,7 +5,7 @@ import './index.css';
 const Navbar = () => {
     return (
         <>
-            <div className='container-fluid' style={{background: '#f8f9fa'}}>
+            <div className='container-fluid' style={{background: '#f8f9fa', borderBottom: '1px solid #dddddd'}}>
                 <div className='row'>
                     <div className='col-10 mx-auto'>
                         <nav className="navbar navbar-expand-lg bg-light">
