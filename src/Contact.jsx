@@ -22,21 +22,23 @@ const Contact = () => {
                                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Description"></textarea>
                                 </div>
                                 <div className="float-end">
-                                    <button className="btn btn-outline-primary">Submit</button>
+                                    <button className="btn btn-primary">Submit</button>
                                 </div>
                             </div>
 
                             <div className="col-md-4 mt-3">
                                 <h3 className="contact">Contact Us</h3>
                                 <ul class="contact-info">
-                                    <li><label>Registered Office :</label> G-1, 2nd Floor, Mohan Baba Nagar, Gali No.-1, Tajpur Pahar, Badarpur, New Delhi-110044 </li>
-                                    <li><label>Phone :</label> 011-24371699 / 24371700 <br /> 0120-2554922/0120-2554933</li>
-                                    <li><label>Email : </label> info@uvt.co.in</li>
+                                    <li><label>Registered Office : </label> F-75, Mangalam City, Jaipur, Rajasthan - 302012 </li>
+                                    <li className="my-2"><label>Contact : </label> +91 9461630681</li>
+                                    <li className="my-2"><label>Email : </label> sn.pksharma@gmail.com</li>
+                                    <li className="my-2"><label>Website : </label> www.thepawansharma.com</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div className='row my-2'><br></br><br></br></div>
             </div>
         </>
     )

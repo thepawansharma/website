@@ -8,11 +8,11 @@ const Home = () => {
                 <div className='container-fluid'>
                     <div className='row'>
                         <div className='col-10 mx-auto'>
-                            <div className="row mt-5">
+                            <div className="row mt-5 m-margin">
                                 <div className="col-md-6 mt-5 pt-5 mx-auto">
                                     <h1>Grow your business with <br /> <strong className="brandName">The Pawan Sharma</strong></h1>
                                     <h2>We are Best Professional Team</h2><br />
-                                    <button className="btn btn-outline-primary">Get Started</button>
+                                    <button className="btn btn-primary">&nbsp;Get Started&nbsp;</button>
                                 </div>
 
                                 <div className="col-md-6">

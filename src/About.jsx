@@ -12,7 +12,7 @@ const Home = () => {
                                 <div className="col-md-6 mt-5 pt-5 mx-auto">
                                     <h1>Welcome to about us page <br /> <strong className="brandName">The Pawan Sharma</strong></h1>
                                     <h2>We are Best Professional Team</h2><br />
-                                    <button className="btn btn-outline-primary">About Us</button>
+                                    <button className="btn btn-primary">&nbsp; About Us &nbsp;</button>
                                 </div>
 
                                 <div className="col-md-6">
