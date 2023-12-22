@@ -9,7 +9,7 @@ const Card = (pros) => {
                     <div className="card-body">
                         <h5 className="card-title">{pros.title}</h5>
                         <p className="card-text">Some quick example text to build on ..</p>
-                        <a href="#" className="btn btn-primary">View More</a>
+                        <a href="#" className="btn btn-primary">&nbsp; View More &nbsp;</a>
                     </div>
                 </div>
             </div>
