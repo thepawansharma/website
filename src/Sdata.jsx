@@ -1,4 +1,4 @@
-import React from "react";
+
 import "../src/services/customize-app.jpg";
 
 const Sdata = [
