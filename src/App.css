@@ -41,6 +41,7 @@
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
   width: 325px;
   margin-left: 150px !important;
+
 }
 
 @media only screen and (max-width: 600px) {
@@ -51,6 +52,7 @@
   .m-margin {
     margin-top: -25px !important;
   }
+
 }
 
 @-webkit-keyframes up-down {
